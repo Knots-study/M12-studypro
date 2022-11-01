@@ -1,2 +1,2 @@
-./input/source_data
-./output
+/input/source_data/*
+/output/*
