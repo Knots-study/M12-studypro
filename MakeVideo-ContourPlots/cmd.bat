@@ -1,5 +1,4 @@
 @echo off
-rem 文字を表示させるバッチ
 echo まずは動画のもととなる画像を書き出すよ！
 python3 MakeVideo.py
 echo 次は動画を書き出すよ！
